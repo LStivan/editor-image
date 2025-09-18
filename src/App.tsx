@@ -1,9 +1,9 @@
-import { ModeToggle } from "@/components/mode-toggle";
+import Header from "@/pages/dashboard/page";
 
 export default function App() {
   return (
-    <section>
-      <ModeToggle />
+    <section className="px-4">
+      <Header />
     </section>
   );
 }

@@ -11,13 +11,17 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-dropdown-menu": "^2.1.16",
+    "@radix-ui/react-popover": "^1.1.15",
     "@radix-ui/react-slot": "^1.2.3",
     "@tailwindcss/vite": "^4.1.13",
     "@tauri-apps/api": "^2",
     "@tauri-apps/plugin-opener": "^2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "cmdk": "^1.1.1",
+    "lodash-es": "^4.17.21",
     "lucide-react": "^0.544.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
@@ -27,6 +31,7 @@
   "devDependencies": {
     "@biomejs/biome": "2.2.4",
     "@tauri-apps/cli": "^2.8.4",
+    "@types/lodash-es": "^4.17.12",
     "@types/node": "^24.5.2",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
