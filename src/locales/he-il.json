@@ -1,50 +1,50 @@
 {
-  "languages-selected": {
-    "label": "בחר שפות",
-    "locales": {
-      "pt-br": {
-        "label": "פורטוגזית ברזיל",
-        "flag": "pt-BR",
-        "default-selected": true
-      },
-      "fr-fr": {
-        "label": "צרפתית",
-        "flag": "fr-FR"
-      },
-      "it-it": {
-        "label": "איטלקית",
-        "flag": "it-IT"
-      },
-      "es-es": {
-        "label": "ספרדית",
-        "flag": "es-ES"
-      },
-      "el-gr": {
-        "label": "יוונית",
-        "flag": "el-GR"
-      },
-      "he-il": {
-        "label": "עברית",
-        "flag": "he-IL"
-      }
-    }
-  },
-  "buttons": {
-    "toggle-button-theme": {
-      "label": "שנה צבע ערכת נושא בין בהיר או כהה",
-      "theme": {
-        "light": "בהיר",
-        "dark": "כהה",
-        "system": "מערכת"
-      }
-    },
-    "button-save": "שמור",
-    "button-convert-to-pdf": "המר ל-PDF",
-    "button-remove-background": "הסר רקע"
-  },
-  "combobox": {
-    "placeholder": "בחר שפה...",
-    "search-placeholder": "חפש שפה...",
-    "no-language-found": "לא נמצאה שפה."
-  }
+	"languages-selected": {
+		"label": "בחר שפות",
+		"locales": {
+			"pt-br": {
+				"label": "פורטוגזית ברזיל",
+				"flag": "pt-BR",
+				"default-selected": true
+			},
+			"fr-fr": {
+				"label": "צרפתית",
+				"flag": "fr-FR"
+			},
+			"it-it": {
+				"label": "איטלקית",
+				"flag": "it-IT"
+			},
+			"es-es": {
+				"label": "ספרדית",
+				"flag": "es-ES"
+			},
+			"el-gr": {
+				"label": "יוונית",
+				"flag": "el-GR"
+			},
+			"he-il": {
+				"label": "עברית",
+				"flag": "he-IL"
+			}
+		}
+	},
+	"buttons": {
+		"toggle-button-theme": {
+			"label": "שנה צבע ערכת נושא בין בהיר או כהה",
+			"theme": {
+				"light": "בהיר",
+				"dark": "כהה",
+				"system": "מערכת"
+			}
+		},
+		"button-save": "שמור",
+		"button-convert-to-pdf": "המר ל-PDF",
+		"button-remove-background": "הסר רקע"
+	},
+	"combobox": {
+		"placeholder": "בחר שפה...",
+		"search-placeholder": "חפש שפה...",
+		"no-language-found": "לא נמצאה שפה."
+	}
 }

@@ -1,9 +1,9 @@
-import Header from "@/pages/dashboard/page";
+import Dashboard from "@/pages/dashboard/page";
 
 export default function App() {
-  return (
-    <section className="px-4">
-      <Header />
-    </section>
-  );
+	return (
+		<article>
+			<Dashboard />
+		</article>
+	);
 }
