@@ -17,13 +17,18 @@
     "rules": {
       "recommended": true,
       "suspicious": {
-        "noUnknownAtRules": "error"
+        "noUnknownAtRules": "off"
       }
     }
   },
   "javascript": {
     "formatter": {
       "quoteStyle": "double"
+    }
+  },
+  "css": {
+    "linter": {
+      "enabled": true
     }
   },
   "assist": {

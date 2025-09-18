@@ -1,9 +1,9 @@
-import { ModeToggle } from "@/components/mode-toggle";
+import Dashboard from "@/pages/dashboard/page";
 
 export default function App() {
-  return (
-    <section>
-      <ModeToggle />
-    </section>
-  );
+	return (
+		<article>
+			<Dashboard />
+		</article>
+	);
 }
