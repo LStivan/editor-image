@@ -3,9 +3,13 @@
 		"label": "בחר שפות",
 		"locales": {
 			"pt-br": {
-				"label": "פורטוגזית ברזיל",
+				"label": "פורטוגזית ברזילאית",
 				"flag": "pt-BR",
 				"default-selected": true
+			},
+			"en-en": {
+				"label": "אנגלית",
+				"flag": "en-EN"
 			},
 			"fr-fr": {
 				"label": "צרפתית",
@@ -31,7 +35,7 @@
 	},
 	"buttons": {
 		"toggle-button-theme": {
-			"label": "שנה צבע ערכת נושא בין בהיר או כהה",
+			"label": "החלפת צבע הנושא לאור או כהה",
 			"theme": {
 				"light": "בהיר",
 				"dark": "כהה",
@@ -40,7 +44,11 @@
 		},
 		"button-save": "שמור",
 		"button-convert-to-pdf": "המר ל-PDF",
-		"button-remove-background": "הסר רקע"
+		"button-remove-background": "הסר רקע",
+		"button-toggle-selected-all": {
+			"active": "בחר הכל",
+			"disabled": "הסר סימון מהכל"
+		}
 	},
 	"combobox": {
 		"placeholder": "בחר שפה...",

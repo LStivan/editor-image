@@ -7,6 +7,10 @@
 				"flag": "pt-BR",
 				"default-selected": true
 			},
+			"en-en": {
+				"label": "Inglês",
+				"flag": "en-EN"
+			},
 			"fr-fr": {
 				"label": "Francês",
 				"flag": "fr-FR"
@@ -40,7 +44,11 @@
 		},
 		"button-save": "Salvar",
 		"button-convert-to-pdf": "Converter para PDF",
-		"button-remove-background": "Remover fundo"
+		"button-remove-background": "Remover fundo",
+		"button-toggle-selected-all": {
+			"active": "Selecionar todos",
+			"disabled": "Desmarcar todos"
+		}
 	},
 	"combobox": {
 		"placeholder": "Selecionar idioma...",

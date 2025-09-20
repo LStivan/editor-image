@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    editor_img_archi_lib::run()
+    image_editor_archi_lib::run()
 }

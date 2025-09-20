@@ -1,9 +1,9 @@
-import Dashboard from "@/pages/dashboard/page";
+import Dashboard from "@/pages/dashboard/dashboard";
 
 export default function App() {
 	return (
-		<article>
+		<section>
 			<Dashboard />
-		</article>
+		</section>
 	);
 }

@@ -1,7 +1,7 @@
 import { createContext, type ReactNode, useContext, useState } from "react";
 import type { I18nJSON } from "@/types/i18n";
 
-const modules = import.meta.glob("../locales/*.json", { eager: true });
+const modules = import.meta.glob("@/locales/*.json", { eager: true });
 
 type SupportedLocale = keyof typeof modules;
 type LocaleMap = Record<SupportedLocale, I18nJSON>;

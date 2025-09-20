@@ -3,9 +3,13 @@
 		"label": "Seleziona lingue",
 		"locales": {
 			"pt-br": {
-				"label": "Portoghese del Brasile",
+				"label": "Portoghese brasiliano",
 				"flag": "pt-BR",
 				"default-selected": true
+			},
+			"en-en": {
+				"label": "Inglese",
+				"flag": "en-EN"
 			},
 			"fr-fr": {
 				"label": "Francese",
@@ -31,7 +35,7 @@
 	},
 	"buttons": {
 		"toggle-button-theme": {
-			"label": "Cambia il colore del tema tra chiaro e scuro",
+			"label": "Cambia il tema chiaro o scuro",
 			"theme": {
 				"light": "Chiaro",
 				"dark": "Scuro",
@@ -40,7 +44,11 @@
 		},
 		"button-save": "Salva",
 		"button-convert-to-pdf": "Converti in PDF",
-		"button-remove-background": "Rimuovi sfondo"
+		"button-remove-background": "Rimuovi sfondo",
+		"button-toggle-selected-all": {
+			"active": "Seleziona tutto",
+			"disabled": "Deseleziona tutto"
+		}
 	},
 	"combobox": {
 		"placeholder": "Seleziona lingua...",

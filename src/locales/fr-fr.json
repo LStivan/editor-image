@@ -7,6 +7,10 @@
 				"flag": "pt-BR",
 				"default-selected": true
 			},
+			"en-en": {
+				"label": "Anglais",
+				"flag": "en-EN"
+			},
 			"fr-fr": {
 				"label": "Français",
 				"flag": "fr-FR"
@@ -31,7 +35,7 @@
 	},
 	"buttons": {
 		"toggle-button-theme": {
-			"label": "Changer la couleur du thème entre clair ou sombre",
+			"label": "Changer le thème en clair ou sombre",
 			"theme": {
 				"light": "Clair",
 				"dark": "Sombre",
@@ -40,7 +44,11 @@
 		},
 		"button-save": "Enregistrer",
 		"button-convert-to-pdf": "Convertir en PDF",
-		"button-remove-background": "Supprimer le fond"
+		"button-remove-background": "Supprimer le fond",
+		"button-toggle-selected-all": {
+			"active": "Tout sélectionner",
+			"disabled": "Tout désélectionner"
+		}
 	},
 	"combobox": {
 		"placeholder": "Sélectionner une langue...",
